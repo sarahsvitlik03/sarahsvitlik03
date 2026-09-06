@@ -4,12 +4,12 @@
 I’m a Software Engineer from Waterbury, CT with 4+ years of practical experience building high‑quality applications and user‑centered digital experiences. I work across mobile, web, and full‑stack development, and I enjoy creating systems that are clean, intuitive, and genuinely useful.
 
 🛠️ Skills & Technologies
-Languages: Swift, JavaScript, Python, C/C++, SQL
-Mobile: SwiftUI, UIKit, Android (Kotlin)
-Web: React, Vue, Vite, Express.js
-Backend: Flask, Node.js, REST APIs
-Databases: MySQL, MongoDB, Firebase/Firestore
-Other: UI/UX design, cross‑platform development, system architecture
+- Languages: Swift, JavaScript, Python, C/C++, SQL
+- Mobile: SwiftUI, UIKit, Android (Kotlin)
+- Web: React, Vue, Vite, Express.js, JavaScript
+- Backend: Flask, Node.js, REST APIs
+- Databases: MySQL, MongoDB, Firebase/Firestore
+- Other: UI/UX design, cross‑platform development, system architecture
 
 📌 What I Build
 - Full‑stack applications with clean architecture
