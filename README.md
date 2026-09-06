@@ -22,6 +22,6 @@ Other: UI/UX design, cross‑platform development, system architecture
 - Projects that go from concept → design → production‑ready builds
 
 ✨ Currently Working On
--WNHU 88.7 Mobile App: Developing the Android and iOS application for the University of New Haven’s radio station, focusing on a clean interface, reliable streaming, and a smooth mobile experience.
+- WNHU 88.7 Mobile App: Developing the Android and iOS application for the University of New Haven’s radio station, focusing on a clean interface, reliable streaming, and a smooth mobile experience.
 - Graduate Degree: Completing my Master’s in Computer Science, expanding my skills in advanced software engineering and full‑stack development.
 - CustomTkinter Quotes App: Building a cozy Python desktop app using CustomTkinter with Firebase/Firestore integration for storing and displaying curated quotes.
